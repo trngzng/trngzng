@@ -8,8 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=trgzng1802&theme=onedark)](https://github.com/trgzng1802/github-profile-trophy)
 
-<br>
-<br>
+---
 
 ### Languages and Tools:
 
@@ -18,7 +17,7 @@
 <img align='left' width="32" height="32" src="icon/git-icon.svg"/>
 <img align='left' width="32" height="32" src="icon/github-icon.svg"/>
 <img align='left' width="32" height="32" src="icon/altiumdesigner-white.svg"/>
-
+<!-- -->
 <br>
 
 
@@ -30,3 +29,11 @@
 
 <img width="" height="150" src="https://github-readme-stats.vercel.app/api?username=trgzng1802&show_icons=true&theme=tokyonight"/>
 <img width="" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trgzng1802&layout=compact&theme=tokyonight"/>
+
+
+---
+
+<img width="" height="" src="https://github.com/trgzng1802/trgzng1802/blob/main/wallpaper_tramcam.jpg"/>
+
+<!-- -->
+
