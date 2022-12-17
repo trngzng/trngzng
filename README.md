@@ -4,6 +4,13 @@
 
 (●'◡'●) I'm Giang.
 
+💕 A student passionate about Electronics.
+
+😄 Currently, I am learning embedded programming.
+
+😍 My hobbies are listening to music, coding, reading books, watching movies.
+
+😐 Fact about me: I'm funny but introverted.
 
 ---
 
