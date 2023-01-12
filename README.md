@@ -31,10 +31,6 @@
 
 <br>
 
-<img width="" height="150" src="https://github-readme-stats.vercel.app/api?username=trgzng1802&show_icons=true&theme=tokyonight"/>
-<img width="" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trgzng1802&layout=compact&theme=tokyonight"/>
-
-
 ---
 
 <img width="" height="" src="https://github.com/trgzng1802/trgzng1802/blob/main/wallpaper_tramcam.jpg"/>
