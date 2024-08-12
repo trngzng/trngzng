@@ -1,16 +1,16 @@
-# Hi!
+# Hi! Thanks for visiting my GitHub!
 
 ## About me
 
 (●'◡'●) I'm Giang.
 
-💕 A student passionate about Electronics.
+💕 _**Who's me?**_ - A Electronics hobbyist wanna DIY.
 
-😄 Currently, I am learning embedded programming.
+😄 _**What's my major?**_ - Electronics and Telecommunications.
 
-😍 My hobbies are listening to music, coding, reading books, watching movies.
+😍 _**What do I love most?**_ - Sleeping, Learning and Her.
 
-😐 Fact about me: I'm funny but introverted.
+😐 I can know everything, but nothing about me. However, everything will be okay.
 
 ---
 
@@ -24,14 +24,13 @@
 <!-- -->
 <br>
 
-
 <br>
 
 ![](https://komarev.com/ghpvc/?username=rtgzng1802&color=yellow&label=Profile+views&style=flat-square)
-
 <br>
 
 ---
+*"things end, memories last."* - **tltn**
 
 <img width="" height="" src="https://github.com/trgzng1802/trgzng1802/blob/main/wallpaper_tramcam.jpg"/>
 
