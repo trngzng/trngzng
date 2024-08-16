@@ -30,7 +30,7 @@
 <br>
 
 ---
-*"things end, memories last."* - **tltn**
+*"ai cũng phải bắt đầu từ đâu đó."* - **HIEUTHUHAI**
 
 <img width="" height="" src="https://github.com/trgzng1802/trgzng1802/blob/main/wallpaper_tramcam.jpg"/>
 
