@@ -32,7 +32,7 @@
 ---
 *"ai cũng phải bắt đầu từ đâu đó."* - **HIEUTHUHAI**
 
-<img width="" height="" src="https://github.com/trgzng1802/trgzng1802/blob/main/wallpaper_tramcam.jpg"/>
+![wallpaper_iudoi](https://github.com/user-attachments/assets/581bf35f-8cf3-48e5-ad1e-46a962c04cf3)
 
 <!-- -->
 
